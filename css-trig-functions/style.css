@@ -40,7 +40,7 @@
 @layer base {
   html {
     --surface-1: oklch(20% 0.03 269);
-    --surface-2: oklch(19% 0.03 267);
+    --surface-2: oklch(26% 0.04 269);
     --text-1: oklch(91% 0.03 61);
     --body: 400 1rem/1.5rem system-ui, sans-serif;
     --display: 400 3.562rem/4rem system-ui, sans-serif;
